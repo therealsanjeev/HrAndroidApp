@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HrAndroidApp</string>
+    <string name="name">Name</string>
+    <string name="position">Position</string>
+    <string name="salary">Salary</string>
+    <string name="type_of_job_full_time_part_time">Type of job (full time/part time)</string>
+    <string name="create_staff">Create Staff</string>
+</resources>
